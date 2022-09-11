@@ -1,5 +1,11 @@
 # lessons-html
 
+## WebStackAcademy на YouTube
+
+https://www.youtube.com/playlist?list=PLuMheaSLpb1hNHT_bjpDxhAYTJIai7VF_
+
+Макет https://www.figma.com/file/QM7ehEzxkeAiftBFKVsdei/Delivery-Food
+
 ## …or create a new repository on the command line
 
 echo "# lessons-html" >> README.md
