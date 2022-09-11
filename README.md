@@ -1,4 +1,4 @@
-# lessons-html
+## lessons-html
 
 # …or create a new repository on the command line
 
